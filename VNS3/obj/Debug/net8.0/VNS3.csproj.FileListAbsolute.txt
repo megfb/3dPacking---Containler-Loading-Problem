@@ -1,0 +1,14 @@
+C:\Users\Mehmet\source\repos\VNS3\VNS3\bin\Debug\net8.0\VNS3.exe
+C:\Users\Mehmet\source\repos\VNS3\VNS3\bin\Debug\net8.0\VNS3.deps.json
+C:\Users\Mehmet\source\repos\VNS3\VNS3\bin\Debug\net8.0\VNS3.runtimeconfig.json
+C:\Users\Mehmet\source\repos\VNS3\VNS3\bin\Debug\net8.0\VNS3.dll
+C:\Users\Mehmet\source\repos\VNS3\VNS3\bin\Debug\net8.0\VNS3.pdb
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.dll
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\refint\VNS3.dll
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.pdb
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\VNS3.genruntimeconfig.cache
+C:\Users\Mehmet\source\repos\VNS3\VNS3\obj\Debug\net8.0\ref\VNS3.dll
